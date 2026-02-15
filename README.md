@@ -11,5 +11,8 @@ java -jar xml2axml e [AndroidManifest-readable-in.xml] [AndroidManifest-bin-out.
 java -jar xml2axml d [AndroidManifest-bin-in.xml] [AndroidManifest-readable-out.xml]
 ```
 
-Note  
+Note
+
+The project form from [hzw1199](https://github.com/hzw1199/xml2axml?tab=readme-ov-file)
+
 The project is based on [This project](https://github.com/l741589/xml2axml)
